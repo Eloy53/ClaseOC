@@ -1,0 +1,5 @@
+numero= int(input("ingresar un numero"))
+numero1= int(input("ingresar otro numero"))
+numero2= int(input("ingresar ultimo numero"))
+promedio=((numero+numero1+numero2)/3)
+print ("tu promedio es ", promedio )
